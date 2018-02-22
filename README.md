@@ -1,2 +1,0 @@
-# stroiinvest
-test project
